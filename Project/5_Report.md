@@ -57,9 +57,9 @@ Solar Power Is Pollution-Free During Use. Production End-Wastes and Emissions Ar
 5)	In home Appliances.
 6)	In smart city projects.
 
-#BLOCK DIAGRAM AND ITS DESCRIPTION
+# BLOCK DIAGRAM AND ITS DESCRIPTION
 
-#Explanation for The Flow of Each Block
+# Explanation for The Flow of Each Block
 
 The block diagram of solar tracking system for automated irrigation using microcontroller (Arduino uno) is shown in the Figure when power supply is turned on, the controller initializes.
   
