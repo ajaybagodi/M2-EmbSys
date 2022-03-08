@@ -1,3 +1,5 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/ajaybagodi/M2-EmbSys?style=flat-square)
+
 # M2-EmbSys
 # Problem Statement
 
